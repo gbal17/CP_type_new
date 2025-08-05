@@ -1,0 +1,24 @@
+{
+    "features": [
+        "Irrigation",
+        "week",
+        "veg_std_ndvi",
+        "week_cos",
+        "week_sin",
+        "veg_median_pvr",
+        "ndvi_temp_interaction",
+        "era5_temp2mmin",
+        "era5_evaporation_from_bare_soil_sum",
+        "s1_vh",
+        "lai_precip_ratio",
+        "growth_rate_lai",
+        "veg_median_ndvi",
+        "s1_vv",
+        "era5_swi",
+        "veg_min_ndvi",
+        "s1_sigma_vv_linear",
+        "veg_median_msi",
+        "era5_temp2m",
+        "veg_std_msi"
+    ]
+}
