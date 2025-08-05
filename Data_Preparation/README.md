@@ -6,7 +6,7 @@ This section of the project includes a series of Jupyter notebooks for **cleanin
 
 ## 📁 File Descriptions
 
-### `1_process1_10week.ipynb`
+### [`1_process1_10week.ipynb`](./1_process1_10week.ipynb)
 
 Initial cleaning and aggregation of raw crop data.
 
@@ -17,7 +17,7 @@ Initial cleaning and aggregation of raw crop data.
 
 ---
 
-### `1_process2_10week.ipynb`
+### [`1_process2_10week.ipynb`](./1_process2_10week.ipynb)
 
 Restructuring the cleaned data into a **long-format weekly table**.
 
@@ -27,7 +27,7 @@ Restructuring the cleaned data into a **long-format weekly table**.
 
 ---
 
-### `2_filter_dates.ipynb`
+### [`2_filter_dates.ipynb`](./2_filter_dates.ipynb)
 
 Filtering the dataset by **growing season windows**.
 
@@ -37,7 +37,7 @@ Filtering the dataset by **growing season windows**.
 
 ---
 
-### `3_reduce_25week.ipynb`
+### [`3_reduce_25week.ipynb`](./3_reduce_25week.ipynb)
 
 Preparing the **final feature set** for model calibration.
 

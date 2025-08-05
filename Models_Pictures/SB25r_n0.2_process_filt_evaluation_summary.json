@@ -1,0 +1,29 @@
+{
+  "Final_Accuracy": 0.8129,
+  "Weighted_F1": 0.8107,
+  "Selected_Features": [
+    "Irrigation",
+    "veg_std_ndvi",
+    "week",
+    "week_cos",
+    "week_sin",
+    "veg_median_pvr",
+    "era5_evaporation_from_bare_soil_sum",
+    "era5_temp2mmin",
+    "era5_swi",
+    "veg_std_lai",
+    "s1_vh",
+    "growth_rate_lai",
+    "veg_mean_ndvi",
+    "veg_median_msi",
+    "lai_precip_ratio",
+    "s1_sigma_vv_linear",
+    "veg_median_ndvi"
+  ],
+  "Num_Selected_Features": 17,
+  "Model_File": "Models/SB25r_n0.2_process_filt.joblib",
+  "Features_File": "Models/SB25r_n0.2_process_filt.json",
+  "True_Test_Report_File": "Models_Pictures/SB25r_n0.2_process_filt_true_test_report.json",
+  "Confusion_Matrix_Image": "Models_Pictures/SB25r_n0.2_process_filt_confusion_matrix.png",
+  "Confusion_Matrix_CSV": "Models_Pictures/SB25r_n0.2_process_filt_confusion_matrix.csv"
+}
