@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌱 Crop Type Prediction using XGBoost
 
 This project contains a series of Python notebooks and scripts designed to facilitate data preparation, model fitting, and evaluation for predicting crop types such as **Maize, Soy, Sunflower, Wheat, Lucern, Pasture, Tree, Fallow, Groundnuts**, and **Sorghum**. The workflow enables effective data processing, feature engineering, machine learning model training, and simulation using a pre-trained classifier.
@@ -72,3 +73,7 @@ Ensure the following packages are installed:
 
 ```bash
 pip install pandas numpy scikit-learn xgboost matplotlib seaborn
+=======
+# CP_type_new
+Machine learning pipeline for crop type classification using XGBoost – includes dataset preparation, feature engineering, model training, simulation, and evaluation with bootstrapped accuracy metrics.
+>>>>>>> 7645d6e3301f2cbe5ca6137e44b6089d85b21ca4
